@@ -1,3 +1,38 @@
+- title: "Bluejay"
+  base: bluejay
+  images:
+    - image: DSCF5551.JPG
+      annotation: ""
+    - image: DSCF5585.JPG
+      annotation: ""
+    - image: DSCF5731.JPG
+      annotation: ""
+- title: "Northern Cardinal"
+  base: cardinal-northern
+  images:
+    - image: DSCF5735.JPG
+      annotation: "Male"
+    - image: DSCF6219.JPG
+      annotation: "Female"
+- title: "Chickadee"
+  base: chickadee
+  images:
+    - image: DSCF5581.JPG
+      annotation: ""
+    - image: DSCF8156.JPG
+      annotation: ""
+- title: "Wood Duck"
+  base: duck-wood
+  images:
+    - image: DSCF9293-1.jpg
+      annotation: "Male, Female, and Canada Goose"
+- title: "Eastern Phoebe"
+  base: easternPhoebe
+  images:
+    - image: DSCF4463.JPG
+      annotation: ""
+    - image: DSCF4467.JPG
+      annotation: ""
 - title: Goldfinch
   base: finch-gold
   images:
@@ -9,11 +44,64 @@
       annotation: "Male in spruce tree"
     - image: DSCF6872-1.jpg
       annotation: "Male close up"
-
-- title: "Northern Cardinal"
-  base: cardinal-northern
+- title: "Great Crested Flycatcher"
+  base: flycatcher-greatCrested
   images:
-    - image: DSCF5735.JPG
+    - image: DSCF7070.JPG
+      annotation: ""
+    - image: DSCF7082.JPG
+      annotation: ""
+- title: "Indigo Bunting"
+  base: indigoBunting
+  images:
+    - image: DSCF8979.JPG
+      annotation: ""
+    - image: DSCF8990.JPG
+      annotation: ""
+    - image: 
+      annotation: ""
+- title: "Fox Sparrow"
+  base: sparrow-fox
+  images:
+    - image: DSCF9228.JPG
+      annotation: ""
+- title: "Warbling Vireo"
+  base: vireo-warbling
+  images:
+    - image: DSCF8751.JPG
       annotation: "Male"
-    - image: DSCF6219.JPG
+- title: "Warbler: American Redstart"
+  base: warbler-americanRedstart
+  images:
+    - image: DSCF8451.JPG
       annotation: "Female"
+    - image: DSCF8740.JPG
+      annotation: "Male"
+    - image: DSCF8742.JPG
+      annotation: "Male"
+- title: "Warbler: Chestnut-sided"
+  base: warbler-chestnutSided
+  images:
+    - image: DSCF8438.JPG
+      annotation: ""
+    - image: DSCF8359.JPG
+      annotation: ""
+- title: "Warbler: Common Yellow Throated"
+  base: warbler-commonYellowThroat
+  images:
+    - image: DSCF8883.JPG
+      annotation: ""
+- title: "Warbler: Wilson's"
+  base: warbler-wilsons
+  images:
+    - image: DSCF8948.JPG
+      annotation: ""
+    - image: DSCF8949.JPG
+      annotation: ""
+- title: "Warbler: Yellow-rumped"
+  base: warbler-yellowRumped
+  images:
+    - image: DSCF8215.JPG
+      annotation: ""
+    - image: DSCF8750.JPG
+      annotation: ""
