@@ -1,0 +1,27 @@
+<!doctype html>
+
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
+
+    <script src="/assets/js/jquery-3.4.1.min.js"></script>
+
+    <script src="/assets/js/jquery.fancybox.min.js"></script>
+    <link rel="stylesheet" href="/assets/css/jquery.fancybox.min.css" />
+
+    <link rel="stylesheet" href="/assets/css/styles.css">
+
+  </head>
+
+  <body>
+
+    {% include navigation.html %}
+
+    <div class="main-content">
+        {{ content }}
+    </div>
+
+</html>

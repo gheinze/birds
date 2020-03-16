@@ -1,0 +1,19 @@
+- title: Goldfinch
+  base: finch-gold
+  images:
+    - image: DSCF1460.JPG
+      annotation: "Female"
+    - image: DSCF6870.JPG
+      annotation: "Male in garden"
+    - image: DSCF6872.JPG
+      annotation: "Male in spruce tree"
+    - image: DSCF6872-1.jpg
+      annotation: "Male close up"
+
+- title: "Northern Cardinal"
+  base: cardinal-northern
+  images:
+    - image: DSCF5735.JPG
+      annotation: "Male"
+    - image: DSCF6219.JPG
+      annotation: "Female"

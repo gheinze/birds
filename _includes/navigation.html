@@ -1,0 +1,14 @@
+
+<ul class="nav-ul">
+    {% for item in site.data.navigation %}
+    <li class="nav-li">
+        {% assign path = "/pages/" | append: item.base | append: ".html" %}
+        <a href="/pages/{{ item.base }}.html" 
+            {% if page.url == path %}
+               id="nav-active"
+            {% endif %}>
+            {{ item.title }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
