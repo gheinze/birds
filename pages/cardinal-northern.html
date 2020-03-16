@@ -16,10 +16,10 @@ layout: default
 
         {% for image in item.images reversed %}
 
-            <a href="/assets/images/{{ item.base }}/{{ image.image }}"
+            <a href="{{ site.baseurl }}/assets/images/{{ item.base }}/{{ image.image }}"
                data-fancybox="gallery"
                data-caption="{{ image.annotation }}">
-               <img src="/assets/images/{{ item.base }}/thumb/{{ image.image }}">
+               <img src="{{ site.baseurl }}/assets/images/{{ item.base }}/thumb/{{ image.image }}">
             </a>
 
         {% endfor %}
