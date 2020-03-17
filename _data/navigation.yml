@@ -14,12 +14,26 @@
       annotation: "Male"
     - image: DSCF6219.JPG
       annotation: "Female"
+- title: "Cedar Waxing"
+  base: cedar-waxing
+  images:
+    - image: DSCF4310.JPG
+      annotation: ""
+    - image: DSCF9387.JPG
+      annotation: ""
 - title: "Chickadee"
   base: chickadee
   images:
     - image: DSCF5581.JPG
       annotation: ""
     - image: DSCF8156.JPG
+      annotation: ""
+- title: "Crow"
+  base: crow
+  images:
+    - image: DSCF5508.JPG
+      annotation: "A murder of crows"
+    - image: DSCF5510.JPG
       annotation: ""
 - title: "Wood Duck"
   base: duck-wood
@@ -65,10 +79,17 @@
   images:
     - image: DSCF9228.JPG
       annotation: ""
+- title: "Thrasher"
+  base: thrasher
+  images:
+    - image: DSCF0059.JPG
+      annotation: ""
+    - image: DSCF0063.JPG
+      annotation: ""
 - title: "Warbling Vireo"
   base: vireo-warbling
   images:
-    - image: DSCF8751.JPG
+    - image: DSCF8753.JPG
       annotation: "Male"
 - title: "Warbler: American Redstart"
   base: warbler-americanRedstart
@@ -103,5 +124,5 @@
   images:
     - image: DSCF8215.JPG
       annotation: ""
-    - image: DSCF8750.JPG
+    - image: DSCF8749.JPG
       annotation: ""

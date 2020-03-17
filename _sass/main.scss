@@ -1,4 +1,12 @@
 
+html {
+  background-color: #131516;
+}
+
+h1 {
+  color: #edebe8;
+}
+
 .main-content {
     margin-left:20%;
     padding:1px 16px;
@@ -10,7 +18,7 @@
   margin: 0;
   padding: 0;
   width: 20%;
-  background-color: #f1f1f1;
+  background-color: rgb(23, 25, 26);
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -18,7 +26,7 @@
 
 .nav-li a {
   display: block;
-  color: #000;
+  color: rgb(237, 235, 232);
   padding: 8px 16px;
   text-decoration: none;
 }
