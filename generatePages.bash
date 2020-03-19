@@ -2,7 +2,7 @@
 
 titleLine=true
 
-grep "title:\|base:" ./_data/navigation.yml  | sed "s/.*title: //g" | while read LINE; do
+grep "title:\|base:" ./_data/navigation.yml  | sed "s/.*title: //g;s/.*base: //g" | while read LINE; do
 
   if [ "$titleLine" = "true" ]
   then

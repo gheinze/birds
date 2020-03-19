@@ -126,3 +126,11 @@
       annotation: ""
     - image: DSCF8749.JPG
       annotation: ""
+- title: "American Woodcock"
+  base: woodcock
+  images:
+    - image: DSCF1251.JPG
+      annotation: ""
+    - image: DSCF1254.JPG
+      annotation: ""
+
